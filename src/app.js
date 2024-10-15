@@ -14,7 +14,7 @@ window.onload = function() {
     "concinaba",
     "baila en",
     "saltaba en",
-    "vaijaba en",
+    "viajaba en",
     "gritaba a"
   ];
   let what = ["mis deberes", "la tableta", "el gato", "la muñeca", "el horno"];
